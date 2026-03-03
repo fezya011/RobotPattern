@@ -1,0 +1,14 @@
+/home/student/RiderProjects/RobotPattern/RobotPattern/bin/Debug/net8.0/RobotPattern
+/home/student/RiderProjects/RobotPattern/RobotPattern/bin/Debug/net8.0/RobotPattern.deps.json
+/home/student/RiderProjects/RobotPattern/RobotPattern/bin/Debug/net8.0/RobotPattern.runtimeconfig.json
+/home/student/RiderProjects/RobotPattern/RobotPattern/bin/Debug/net8.0/RobotPattern.dll
+/home/student/RiderProjects/RobotPattern/RobotPattern/bin/Debug/net8.0/RobotPattern.pdb
+/home/student/RiderProjects/RobotPattern/RobotPattern/obj/Debug/net8.0/RobotPattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/student/RiderProjects/RobotPattern/RobotPattern/obj/Debug/net8.0/RobotPattern.AssemblyInfoInputs.cache
+/home/student/RiderProjects/RobotPattern/RobotPattern/obj/Debug/net8.0/RobotPattern.AssemblyInfo.cs
+/home/student/RiderProjects/RobotPattern/RobotPattern/obj/Debug/net8.0/RobotPattern.csproj.CoreCompileInputs.cache
+/home/student/RiderProjects/RobotPattern/RobotPattern/obj/Debug/net8.0/RobotPattern.dll
+/home/student/RiderProjects/RobotPattern/RobotPattern/obj/Debug/net8.0/refint/RobotPattern.dll
+/home/student/RiderProjects/RobotPattern/RobotPattern/obj/Debug/net8.0/RobotPattern.pdb
+/home/student/RiderProjects/RobotPattern/RobotPattern/obj/Debug/net8.0/RobotPattern.genruntimeconfig.cache
+/home/student/RiderProjects/RobotPattern/RobotPattern/obj/Debug/net8.0/ref/RobotPattern.dll
